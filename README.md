@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatinkumar11954
 - 👀 I’m interested in Cloud
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning about GCP
 
 
 <!---
