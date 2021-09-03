@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatinkumar11954
-- 👀 I’m interested in Cloud and Devops
-- 🌱 I’m currently learning about GCP
+- 👀 I’m interested in Cloud and DevOps
+- 🌱 I’m currently learning about GCP, Azure DevOps
 
 
 <!---
